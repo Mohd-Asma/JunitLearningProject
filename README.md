@@ -26,7 +26,6 @@ JUnit Library: Version 4 or 5
 📂 Project Structure:
 JunitLearning/
 ├── src/
-│ └── your/package/name/
 │ ├── DailyTasks.java
 │ └── TestStringConcat.java
 ├── .classpath
